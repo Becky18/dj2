@@ -1,0 +1,55 @@
+body{
+    background-size: cover;
+}
+h3{
+color:rgb(45, 56, 255);
+text-shadow: -1px 1px 0 rgb(255, 8, 218), 1px 1px 0 rgb(13, 0, 255), 1px -1px 0 rgb(139, 3, 251), -1px -1px 0 rgb(255, 0, 106);
+background:rgb(0, 0, 0);
+font-size: 25px;
+box-shadow: 2px 2px 2px white;
+padding:15px;
+margin-top:0;
+
+}
+.btn{
+background-color: rgb(47, 255, 106);
+color:rgb(0, 0, 0);
+font-family:'Blaka Hollow', cursive;
+font-size:30px;
+}
+.speed{
+float:left;
+
+} 
+.volume{
+    float:right;
+   
+    }
+    #a{
+        width:200px;
+        border-radius:100px ;
+        height:200px;
+
+    }
+    #b{
+        width:150px;
+        height:150px;
+        
+    }
+    .start{
+        width:100px;
+        height:100px;
+        border-radius:100%;
+        margin-bottom:30px
+        
+    }
+    canvas{
+        border:5px solid white;
+        border-radius:25px
+    }
+    #A{
+        height:50px
+    }
+    #B{
+        height:50px
+    }
